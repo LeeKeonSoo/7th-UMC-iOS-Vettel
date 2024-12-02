@@ -1,3 +1,11 @@
+---
+name: Pull Request Template
+about: Create a pull request
+---
+
+## PR Checklist
+Please check if your PR fulfills the following requirements:
+
 
 ## PR Checklist
 Please check if your PR fulfills the following requirements:
